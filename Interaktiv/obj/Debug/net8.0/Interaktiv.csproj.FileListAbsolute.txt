@@ -1,0 +1,14 @@
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.AssemblyInfoInputs.cache
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.AssemblyInfo.cs
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.csproj.CoreCompileInputs.cache
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.exe
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.deps.json
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.runtimeconfig.json
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.dll
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.pdb
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.dll
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\obj\Debug\net8.0\refint\Interaktiv.dll
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.pdb
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.genruntimeconfig.cache
+C:\Users\theodor.freed\Documents\Programmering\Interaktiv\Interaktiv\obj\Debug\net8.0\ref\Interaktiv.dll

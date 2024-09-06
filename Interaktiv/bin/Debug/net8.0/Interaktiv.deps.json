@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Interaktiv/1.0.0": {
+        "runtime": {
+          "Interaktiv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interaktiv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
